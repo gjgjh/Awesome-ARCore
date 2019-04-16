@@ -39,7 +39,7 @@ ARCore is a software development kit developed by Google that allows for augment
 - [Official Tutorial](https://developers.google.com/ar/develop/)
 - [Official API reference](https://developers.google.com/ar/reference/)
 - [ARCore for All](https://github.com/googlecreativelab/arexperiments-portal-painter) - Google ARCore for "unsupported" Android devices.
-- [VideoRecording] Official sample which shows how to capture Sceneform Sceneviews to a local video file.
+- [VideoRecording](https://github.com/google-ar/sceneform-android-sdk/tree/master/samples/videorecording) - Official sample which shows how to capture Sceneform Sceneviews to a local video file.
 - [Google ARCore Asset Converter](https://github.com/gdamoreira/google-ar-asset-converter) - Raw binaries to convert models (obj, fbx and glTF) to Sceneform format.
 - [Google Codelabs - ARCore Cloud Anchors](https://codelabs.developers.google.com/codelabs/arcore-cloud-anchors/) - This codelab guides you through modifying a pre-existing ARCore app to use the Cloud Anchors APIs, and demonstrates how you can create a shared AR experience.
 
